@@ -3,19 +3,19 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
-    "try-creative": false
+    "ip": "nichdaviskoo-fRym.aternos.me",
+    "port": 20773,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 10,
     "y": 100,
-    "z": 0
+    "z": 200
   },
   "utils": {
     "auto-auth": {
