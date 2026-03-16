@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Dream",
+    "username": "Technoblanszer",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
 
@@ -14,9 +14,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 10,
     "y": 100,
-    "z": 0
+    "z": 20
   },
   "utils": {
     "auto-auth": {
