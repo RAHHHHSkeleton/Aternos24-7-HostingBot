@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DrCoconut",
+    "username": "Dream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
 
