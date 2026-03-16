@@ -10,7 +10,7 @@
     "ip": "nichdaviskoo-fRym.aternos.me",
     "port": 20773,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
